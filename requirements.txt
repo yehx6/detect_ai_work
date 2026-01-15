@@ -1,0 +1,8 @@
+transformers
+torch
+trafilatura
+requests
+playwright
+fastapi
+uvicorn
+pydantic

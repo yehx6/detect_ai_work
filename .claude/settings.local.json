@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(git -C D:/github/detect_ai_work log --oneline --all)",
+      "Bash(git -C D:/github/detect_ai_work show:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(chcp:*)",
+      "Bash(playwright install chromium)",
+      "WebSearch"
+    ]
+  }
+}
